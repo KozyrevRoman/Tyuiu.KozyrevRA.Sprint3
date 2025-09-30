@@ -35,7 +35,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task0.V12
             Console.WriteLine("Старт шага = " + startValue);
             Console.WriteLine("Конец шага = " + stopValue);
             Console.WriteLine("*                                                                         *");
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("***************************************************************************"); 
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("Произведение ряда = " + ds.GetMultiplySeries(value, startValue, stopValue));
