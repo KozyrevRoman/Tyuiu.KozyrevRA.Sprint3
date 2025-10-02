@@ -5,7 +5,7 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 using Tyuiu.KozyrevRA.Sprint3.Task3V26.Lib;
-namespace Tyuiu.KozyrevRA.Sprint3.Task3.V26
+namespace Tyuiu.KozyrevRA.Sprint3.Task3.V26 
 {
     class Program
     {

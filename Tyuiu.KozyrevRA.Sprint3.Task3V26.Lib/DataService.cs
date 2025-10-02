@@ -3,7 +3,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task3V26.Lib
 {
     public class DataService : ISprint3Task3V26
     {
-        public int GetCharCount(string value, char item)
+        public int GetCharCount(string value, char item) 
         {
             int count = 0;
             foreach (char c in value)  
