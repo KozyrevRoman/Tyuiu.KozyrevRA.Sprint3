@@ -35,7 +35,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task3.V26
 
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");  
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("Количество символов = " + ds.GetCharCount(value, chr));
             Console.ReadKey();
