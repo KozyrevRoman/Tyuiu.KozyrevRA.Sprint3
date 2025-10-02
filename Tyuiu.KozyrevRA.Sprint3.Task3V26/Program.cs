@@ -30,7 +30,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task3.V26
             Console.WriteLine("*                                                                         *");
             string value = "have a nice time";
             char chr = 'e';
-            Console.WriteLine("Исходная строка = " + value);
+            Console.WriteLine("Исходная строка = " + value); 
             Console.WriteLine("Искомый символ = " + chr);
 
             Console.WriteLine("*                                                                         *"); 
