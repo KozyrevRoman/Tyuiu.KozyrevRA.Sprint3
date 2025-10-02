@@ -29,11 +29,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KozyrevRA.Sprint3.Tas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{B659878F-EAB6-4E5A-AC38-1F3183A2A57F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KozyrevRA.Sprint3.Task3V26", "Tyuiu.KozyrevRA.Sprint3.Task3V26\Tyuiu.KozyrevRA.Sprint3.Task3V26.csproj", "{1368DC0B-74CA-4A6B-9619-04006ED6B984}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KozyrevRA.Sprint3.Task3.V26", "Tyuiu.KozyrevRA.Sprint3.Task3V26\Tyuiu.KozyrevRA.Sprint3.Task3.V26.csproj", "{1368DC0B-74CA-4A6B-9619-04006ED6B984}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KozyrevRA.Sprint3.Task3V26.Test", "Tyuiu.KozyrevRA.Sprint3.Task3V26.Test\Tyuiu.KozyrevRA.Sprint3.Task3V26.Test.csproj", "{F892EA14-2DC2-494F-B46C-4936B175C591}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KozyrevRA.Sprint3.Task3.V26.Test", "Tyuiu.KozyrevRA.Sprint3.Task3V26.Test\Tyuiu.KozyrevRA.Sprint3.Task3.V26.Test.csproj", "{F892EA14-2DC2-494F-B46C-4936B175C591}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KozyrevRA.Sprint3.Task3V26.Lib", "Tyuiu.KozyrevRA.Sprint3.Task3V26.Lib\Tyuiu.KozyrevRA.Sprint3.Task3V26.Lib.csproj", "{F02F7DDE-F743-4C60-95DB-BB46A8DA4063}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KozyrevRA.Sprint3.Task3.V26.Lib", "Tyuiu.KozyrevRA.Sprint3.Task3V26.Lib\Tyuiu.KozyrevRA.Sprint3.Task3.V26.Lib.csproj", "{F02F7DDE-F743-4C60-95DB-BB46A8DA4063}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
