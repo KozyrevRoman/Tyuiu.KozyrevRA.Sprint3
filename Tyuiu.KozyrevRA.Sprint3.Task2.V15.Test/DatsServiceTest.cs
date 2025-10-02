@@ -5,7 +5,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task2.V15.Test
     public sealed class DatsServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidGetSumSeries()
         {
             DataService ds = new DataService();
             double value = 0.5;

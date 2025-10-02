@@ -10,7 +10,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task2.V15.Lib
             int k = startValue;
             do
             {
-                s += (Math.Pow(a, k) + 0.5) * Math.Cos(k);
+                s += (Math.Pow(a, k) + 0.5) * Math.Cos(k); 
                 k++;
             } while (k <= stopValue);
             return Math.Round(s,3);

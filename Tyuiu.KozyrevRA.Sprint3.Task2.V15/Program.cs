@@ -36,7 +36,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task2.V15
             Console.WriteLine("Конец шага = " + stopValue);
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *"); 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("Сумма ряда = " + ds.GetSumSeries(value, startValue, stopValue));
             Console.ReadKey();
