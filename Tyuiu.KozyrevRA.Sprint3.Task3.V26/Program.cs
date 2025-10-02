@@ -21,7 +21,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task3.V26
             Console.WriteLine("* Выполнил: Козырев Роман Артёмович | СМАРТБ-25-1                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Используя цикл foreach подсчитать количество букв “e” в строке:         *");
+            Console.WriteLine("* Используя цикл foreach подсчитать количество букв “e” в строке:         *"); 
             Console.WriteLine("* have a nice time                                                        *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************"); 
