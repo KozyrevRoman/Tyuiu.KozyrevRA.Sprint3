@@ -24,7 +24,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task3.V26
             Console.WriteLine("* Используя цикл foreach подсчитать количество букв “e” в строке:         *");
             Console.WriteLine("* have a nice time                                                        *");
             Console.WriteLine("*                                                                         *");
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("***************************************************************************"); 
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*                                                                         *");
