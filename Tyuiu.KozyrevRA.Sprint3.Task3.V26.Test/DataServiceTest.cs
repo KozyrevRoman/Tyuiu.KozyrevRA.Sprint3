@@ -1,5 +1,5 @@
-﻿using Tyuiu.KozyrevRA.Sprint3.Task3V26.Lib;
-namespace Tyuiu.KozyrevRA.Sprint3.Task3V26.Test
+﻿using Tyuiu.KozyrevRA.Sprint3.Task3.V26.Lib;
+namespace Tyuiu.KozyrevRA.Sprint3.Task3.V26.Test
 {
     [TestClass]
     public sealed class DataServiceTest
@@ -8,7 +8,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task3V26.Test
         public void ValidGetCharCount()
         {
             DataService ds = new DataService();
-            int res = ds.GetCharCount("have a nice time", 'e');  
+            int res = ds.GetCharCount("have a nice time", 'e');   
             int wait = 3;
             Assert.AreEqual(wait, res);
         }

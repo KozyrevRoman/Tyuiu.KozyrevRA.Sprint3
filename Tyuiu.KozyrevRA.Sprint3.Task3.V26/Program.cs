@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.KozyrevRA.Sprint3.Task3V26.Lib;
+using Tyuiu.KozyrevRA.Sprint3.Task3.V26.Lib;
 namespace Tyuiu.KozyrevRA.Sprint3.Task3.V26
 {
     class Program
@@ -16,7 +16,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task3.V26
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема:  Оператор цикла foreach                                           *");
-            Console.WriteLine("* Задание #3                                                              *");
+            Console.WriteLine("* Задание #3                                                              *"); 
             Console.WriteLine("* Вариант #26                                                             *");
             Console.WriteLine("* Выполнил: Козырев Роман Артёмович | СМАРТБ-25-1                         *");
             Console.WriteLine("***************************************************************************");
