@@ -15,7 +15,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task4.V7.Lib
                 }
                 else
                 {
-                    res *= (x / Math.Cos(x)) + 1.5;
+                    res *= (x / Math.Cos(x)) + 1.5; 
                 }
             }
             return Math.Round(res, 3);
