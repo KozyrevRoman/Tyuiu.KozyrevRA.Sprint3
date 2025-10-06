@@ -37,7 +37,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task5.V28
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Сумма ряда = "+ds.GetSumSumSeries(x,startValue1,startValue2,stopValue1,stopValue2));
+            Console.WriteLine("Сумма сумм ряда = "+ds.GetSumSumSeries(x,startValue1,startValue2,stopValue1,stopValue2));
             Console.ReadKey();
         }
     }
