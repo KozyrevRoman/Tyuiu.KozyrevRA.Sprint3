@@ -27,7 +27,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task5.V28
             int startValue1 = 1;
             int stopValue1 = 3;
             int startValue2 = 1;
-            int stopValue2 = 12;
+            int stopValue2 = 12; 
             Console.WriteLine("Переменная X = " + x);
             Console.WriteLine("Старт шага первой суммы ряда = " + startValue1);
             Console.WriteLine("Конец шага первой суммы ряда = " + stopValue1);

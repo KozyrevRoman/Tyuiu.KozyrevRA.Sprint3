@@ -8,7 +8,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task5.V28.Lib
             double res = 0;
             for (int i = startValue1; i <= stopValue1; i++)
             {
-                for (int k = startValue2; k <= stopValue2; k++)
+                for (int k = startValue2; k <= stopValue2; k++) 
                 {
                     res += (Math.Pow(k, x) / Math.Sin(k));
                 }
