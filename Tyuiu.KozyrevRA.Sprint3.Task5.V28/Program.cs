@@ -13,7 +13,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task5.V28
         {
             DataService ds = new DataService();
             Console.Title = "Спринт #3 | Выполнил: Козырев Р. А. | СМАРТБ-25-1";
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("***************************************************************************"); 
             Console.WriteLine("* Спринт #3                                                               *"); 
             Console.WriteLine("* Тема:  Вложенные циклы                                                  *");
             Console.WriteLine("* Задание #5                                                              *");
