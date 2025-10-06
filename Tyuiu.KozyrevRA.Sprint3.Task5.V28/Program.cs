@@ -20,7 +20,7 @@ namespace Tyuiu.KozyrevRA.Sprint3.Task5.V28
             Console.WriteLine("* Вариант #28                                                             *");
             Console.WriteLine("* Выполнил: Козырев Роман Артёмович | СМАРТБ-25-1                         *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
+            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *"); 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*                                                                         *");
             int x = 2;
